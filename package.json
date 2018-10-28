@@ -1,0 +1,15 @@
+{
+  "name": "nodemusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scribble": "0.0.5",
+    "scribbletune": "^1.9.1"
+  }
+}
